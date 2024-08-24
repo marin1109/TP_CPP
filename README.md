@@ -6,9 +6,7 @@ Bienvenue sur mon dépôt Git où je publie mes travaux et exercices réalisés 
 
 Ce dépôt contient divers exercices relatifs à l'apprentissage du langage C++. Vous trouverez ici les TPs réalisés en cours.
 
-### Déroulement des éléments abordés
-
-Le cours est structuré autour des éléments suivants :
+### Le cours est structuré autour des éléments suivants :
 
 - **Prise en main du langage C++**
 - **Passage d’arguments, copies explicites, affectation**
